@@ -7,3 +7,6 @@ Here we explore the different data types present in the language, create a datab
 
 * [**Reading CSV**](https://github.com/Alexelofu/sqlite/tree/main/SqliteTest)
 Here we work with the given car_price csv file, obtaining a train test csv from knowledge of supervised learning. We then create a database and table, before reading the csv file into the table and then querying the database using different techniques.
+
+* [**Building API**](https://github.com/Alexelofu/sqlite/tree/main/API)
+In this, module we work with building a basic Application Programming Interface (API) using VS code and Postman. APIs are set of functions and procedures allowing the creation of applications that access the features/data of an operating system, application or service. At its core an API deals with data communication; its calls, requests and transfer. APIs usually embed authentification or authorization platforms.
